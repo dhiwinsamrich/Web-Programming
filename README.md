@@ -23,6 +23,18 @@ Welcome to the Web Programming repository! This is your ultimate destination for
 
 ## 📁 **Project Highlights**
 
+### **1. Accounting App**
+
+- **Description:** This project is a full-featured accounting application designed to help small businesses manage their finances efficiently. It includes modules for tracking income, expenses, invoicing, and financial reporting. The user-friendly interface makes it easy to keep track of all your accounting needs.
+- **Technologies:** Python, Django, SQLite
+- **Key Features:**
+  - Track income and expenses
+  - Generate invoices and receipts
+  - Financial reporting with charts and graphs
+  - User authentication and role management
+- **Use Cases:** Ideal for freelancers, small business owners, and anyone needing a simple yet powerful accounting tool.
+
+
 ## 🛠️ **How to Clone This Repository**
 
 Ready to explore? Clone this repository to get started:

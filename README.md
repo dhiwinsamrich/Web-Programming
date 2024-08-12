@@ -34,6 +34,17 @@ Welcome to the Web Programming repository! This is your ultimate destination for
   - User authentication and role management
 - **Use Cases:** Ideal for freelancers, small business owners, and anyone needing a simple yet powerful accounting tool.
 
+### 2. Bookshop CRUD App Django
+
+- **Description:** A comprehensive application for managing a bookshop’s inventory and customer orders. The Bookshop CRUD App provides a simple interface to create, read, update, and delete information about books and customer details. It also allows customers to browse through the available collection and make purchases.
+- **Technologies:** Python, Django, SQLite, Bootstrap
+- **Key Features:**
+  - **CRUD Operations:** Efficient management of book entries including title, author, genre, and price.
+  - **Customer Management:** Add and update customer information and purchase history.
+  - **Search Functionality:** Search for books by title, author, or genre.
+  - **Responsive Design:** User-friendly interface accessible on both desktop and mobile devices.
+- **Use Cases:** Ideal for bookshop owners who want a simple digital system to manage their inventory and customer interactions.
+
 
 ## 🛠️ **How to Clone This Repository**
 

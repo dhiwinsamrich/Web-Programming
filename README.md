@@ -56,6 +56,19 @@ Welcome to the Web Programming repository! This is your ultimate destination for
   - **Lightweight Design:** Minimalist UI focused on ease of use and quick access to essential features.
 - **Use Cases:** Suitable for small to medium-sized bookshops looking for a lightweight and easy-to-deploy inventory management system.
 
+### 4. Bookshop CRUD App Flask Fullstack
+
+- **Description:** This project is a full-stack application built with Flask that allows for complete management of a bookshop's inventory and customer transactions. The application provides a user-friendly interface to handle Create, Read, Update, and Delete (CRUD) operations for books and customer details. It integrates both front-end and back-end components to offer a seamless experience.
+- **Technologies:** Python, Flask, SQLite, HTML, CSS, JavaScript
+- **Key Features:**
+  - **CRUD Operations:** Manage book entries including title, author, genre, and price, as well as customer information.
+  - **User Authentication:** Secure login and registration system for administrators and customers.
+  - **Order Management:** Customers can place orders, and admins can manage these orders.
+  - **Search and Filter:** Search for books by various criteria and filter results for easier navigation.
+  - **Responsive UI:** Designed to be accessible and functional on all devices, including mobile, tablet, and desktop.
+- **Use Cases:** Suitable for bookshop owners who require a web-based solution to manage inventory and customer orders, providing an integrated front-end and back-end system.
+
+
 ## 🛠️ **How to Clone This Repository**
 
 Ready to explore? Clone this repository to get started:

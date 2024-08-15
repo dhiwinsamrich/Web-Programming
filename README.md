@@ -68,6 +68,17 @@ Welcome to the Web Programming repository! This is your ultimate destination for
   - **Responsive UI:** Designed to be accessible and functional on all devices, including mobile, tablet, and desktop.
 - **Use Cases:** Suitable for bookshop owners who require a web-based solution to manage inventory and customer orders, providing an integrated front-end and back-end system.
 
+### 5. Django Authentication
+
+- **Description:** This project provides a secure and robust authentication system for web applications using Django. It includes features such as user registration, login, logout, password reset, and account verification via email.
+- **Technologies:** Python, Django, Django Rest Framework
+- **Key Features:**
+  - **User Registration:** Allows new users to sign up and create an account with a username, email, and password.
+  - **Login and Logout:** Secure login and logout functionality for users.
+  - **Password Reset:** Users can reset their passwords via email verification.
+  - **Account Verification:** Send verification emails to users to confirm their email addresses.
+  - **Session Management:** Secure handling of user sessions and cookies.
+- **Use Cases:** Suitable for any web application requiring user authentication, such as e-commerce platforms, social networks, and content management systems.
 
 ## 🛠️ **How to Clone This Repository**
 

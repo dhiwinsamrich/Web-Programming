@@ -80,6 +80,17 @@ Welcome to the Web Programming repository! This is your ultimate destination for
   - **Session Management:** Secure handling of user sessions and cookies.
 - **Use Cases:** Suitable for any web application requiring user authentication, such as e-commerce platforms, social networks, and content management systems.
 
+### 6. Django Dictionary
+
+- **Description:** The Django Dictionary project is a web application designed to provide users with a comprehensive dictionary interface. It allows users to look up definitions, synonyms, antonyms, and example sentences for various words. The application is built with Django and includes a sleek, user-friendly interface.
+- **Technologies:** Python, Django, HTML, CSS, Bootstrap
+- **Key Features:**
+  - **Word Lookup:** Users can search for any word and receive its definition, synonyms, antonyms, and usage examples.
+  - **Search History:** Tracks the search history of users, allowing them to revisit previously searched words.
+  - **Bookmark Words:** Users can bookmark favorite words for quick access.
+  - **Responsive Design:** Optimized for both desktop and mobile viewing.
+- **Use Cases:** Ideal for students, writers, and anyone looking to expand their vocabulary and improve their language skills.
+
 ## 🛠️ **How to Clone This Repository**
 
 Ready to explore? Clone this repository to get started:

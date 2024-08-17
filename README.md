@@ -91,6 +91,18 @@ Welcome to the Web Programming repository! This is your ultimate destination for
   - **Responsive Design:** Optimized for both desktop and mobile viewing.
 - **Use Cases:** Ideal for students, writers, and anyone looking to expand their vocabulary and improve their language skills.
 
+### 7. Django Weather App
+
+- **Description:** A user-friendly weather application built with Django that allows users to check the current weather conditions of any city around the world. The app fetches real-time weather data using an external API and displays it in a clean and intuitive interface.
+- **Technologies:** Python, Django, HTML, CSS, JavaScript, OpenWeatherMap API
+- **Key Features:**
+  - **Real-Time Data:** Fetches and displays current weather data including temperature, humidity, wind speed, and weather conditions.
+  - **City Search:** Users can search for weather information by entering the name of any city.
+  - **Responsive Design:** Fully responsive design that works seamlessly on all devices.
+  - **Error Handling:** Provides appropriate messages for invalid city names or network issues.
+- **Use Cases:** Perfect for users who want a quick and easy way to check the weather in any city without using traditional weather apps.
+
+
 ## 🛠️ **How to Clone This Repository**
 
 Ready to explore? Clone this repository to get started:

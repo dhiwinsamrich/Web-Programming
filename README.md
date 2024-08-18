@@ -102,6 +102,17 @@ Welcome to the Web Programming repository! This is your ultimate destination for
   - **Error Handling:** Provides appropriate messages for invalid city names or network issues.
 - **Use Cases:** Perfect for users who want a quick and easy way to check the weather in any city without using traditional weather apps.
 
+### 8. News Project
+
+- **Description:** A dynamic web application that aggregates and displays news articles from various sources. The News Project allows users to stay informed by providing the latest news updates categorized by topics such as technology, sports, politics, and entertainment. The application fetches real-time data using APIs and presents it in an organized manner.
+- **Technologies:** Python, Django, RESTful APIs, Bootstrap
+- **Key Features:**
+  - **Real-Time News Updates:** Fetches the latest news articles from multiple sources.
+  - **Category-Based Browsing:** Users can filter news by categories like technology, sports, and politics.
+  - **Search Functionality:** Search for specific news articles or topics.
+  - **Responsive Design:** The application is optimized for both desktop and mobile devices.
+- **Use Cases:** Ideal for users who want a centralized platform to access the latest news from various sources, providing convenience and up-to-date information.
+
 
 ## 🛠️ **How to Clone This Repository**
 

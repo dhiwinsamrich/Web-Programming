@@ -113,6 +113,17 @@ Welcome to the Web Programming repository! This is your ultimate destination for
   - **Responsive Design:** The application is optimized for both desktop and mobile devices.
 - **Use Cases:** Ideal for users who want a centralized platform to access the latest news from various sources, providing convenience and up-to-date information.
 
+### 9. RESTful API Flask
+
+- **Description:** This project is a RESTful API built using Flask, a lightweight Python web framework. The API is designed to handle HTTP requests, enabling users to perform operations such as GET, POST, PUT, and DELETE on various resources. It is a fundamental building block for any web application or microservice architecture.
+- **Technologies:** Python, Flask, SQLAlchemy, Marshmallow
+- **Key Features:**
+  - **CRUD Operations:** Create, read, update, and delete resources through RESTful endpoints.
+  - **JSON Serialization:** Uses Marshmallow for easy serialization and deserialization of objects.
+  - **Database Integration:** Leverages SQLAlchemy for robust and flexible database interactions.
+  - **Authentication:** Includes token-based authentication to secure API endpoints.
+- **Use Cases:** Ideal for developers who need a quick and efficient way to create APIs for web and mobile applications, microservices, or backend systems.
+
 
 ## 🛠️ **How to Clone This Repository**
 

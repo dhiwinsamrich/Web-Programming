@@ -124,6 +124,17 @@ Welcome to the Web Programming repository! This is your ultimate destination for
   - **Authentication:** Includes token-based authentication to secure API endpoints.
 - **Use Cases:** Ideal for developers who need a quick and efficient way to create APIs for web and mobile applications, microservices, or backend systems.
 
+### 10. Web Assistant
+
+- **Description:** A smart web assistant that helps users navigate through a website, providing instant answers to common queries, and assisting with tasks like filling out forms, searching for information, and more. The Web Assistant enhances user experience by offering real-time support and guidance.
+- **Technologies:** Python, Flask, JavaScript, HTML, CSS, Natural Language Processing (NLP)
+- **Key Features:**
+  - **Real-Time Assistance:** Provides instant help and guidance to users while they navigate the website.
+  - **Natural Language Processing:** Understands and responds to user queries in natural language.
+  - **Task Automation:** Automates common tasks such as form filling, searching, and navigating.
+  - **Customizable Responses:** Easily customizable to fit the specific needs of different websites.
+- **Use Cases:** Ideal for e-commerce websites, educational platforms, and corporate websites that want to improve user interaction and customer support.
+
 
 ## 🛠️ **How to Clone This Repository**
 

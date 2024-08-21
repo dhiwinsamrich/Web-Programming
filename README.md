@@ -135,6 +135,17 @@ Welcome to the Web Programming repository! This is your ultimate destination for
   - **Customizable Responses:** Easily customizable to fit the specific needs of different websites.
 - **Use Cases:** Ideal for e-commerce websites, educational platforms, and corporate websites that want to improve user interaction and customer support.
 
+### 11. Web-based Email Verifier
+
+- **Description:** This project is a web application designed to verify the validity of email addresses. It checks if an email address is properly formatted, and whether it is connected to an active domain and mail server. This tool is useful for businesses and developers to clean up email lists and ensure that their communications reach valid recipients.
+- **Technologies:** Python, Django, JavaScript, HTML/CSS
+- **Key Features:**
+  - **Syntax Validation:** Ensures that email addresses are correctly formatted.
+  - **Domain Verification:** Checks whether the domain associated with the email address is active and valid.
+  - **MX Record Lookup:** Verifies the presence of mail exchange records for the domain.
+  - **Bulk Email Verification:** Allows users to upload lists of email addresses for batch verification.
+- **Use Cases:** Ideal for marketers, developers, and businesses looking to maintain clean and effective email communication lists.
+
 
 ## 🛠️ **How to Clone This Repository**
 
